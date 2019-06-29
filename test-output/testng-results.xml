@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30430" started-at="2019-06-29T20:07:16Z" finished-at="2019-06-29T20:07:47Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="30430" started-at="2019-06-29T20:07:16Z" finished-at="2019-06-29T20:07:47Z">
+      <class name="com.googlesearch.Searchgoogletask1">
+        <test-method status="PASS" signature="verifycontent()[pri:0, instance:com.googlesearch.Searchgoogletask1@26be92ad]" name="verifycontent" is-config="true" duration-ms="4787" started-at="2019-06-29T20:07:16Z" finished-at="2019-06-29T20:07:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycontent -->
+        <test-method status="PASS" signature="verifycontent()[pri:0, instance:com.googlesearch.Searchgoogletask2@4c70fda8]" name="verifycontent" is-config="true" duration-ms="3860" started-at="2019-06-29T20:07:21Z" finished-at="2019-06-29T20:07:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycontent -->
+        <test-method status="PASS" signature="testing1()[pri:1, instance:com.googlesearch.Searchgoogletask1@26be92ad]" name="testing1" duration-ms="5823" started-at="2019-06-29T20:07:25Z" finished-at="2019-06-29T20:07:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing1 -->
+      </class> <!-- com.googlesearch.Searchgoogletask1 -->
+      <class name="com.googlesearch.Searchgoogletask2">
+        <test-method status="PASS" signature="testing()[pri:2, instance:com.googlesearch.Searchgoogletask2@4c70fda8]" name="testing" duration-ms="15921" started-at="2019-06-29T20:07:31Z" finished-at="2019-06-29T20:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+      </class> <!-- com.googlesearch.Searchgoogletask2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
